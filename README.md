@@ -1,2 +1,2 @@
 # Heart-Disease-Prediction
-Heart Disease Prediction using Python, XGBoost, and Flask. The model predicts heart disease risk based on patient data like age, blood pressure, cholesterol, and more. A practical project for healthcare analytics and machine learning deployment.
+Heart Disease Prediction using Python, XGBoost, and Flask. The model predicts heart disease risk based on patient data like age, blood pressure, cholesterol, and more. A practical project for healthcare analytics and machine learning deployment. Download the zip file to interact with the interface script and set the path for the trained files to use the interface for testing purposes. 
